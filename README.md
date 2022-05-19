@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mclachsh
 - 👀 I’m interested in learning to become a skilled Computer Programmer. 
 - 🌱 I’m currently learning Python Computer Programming.
-- 💞️ I’m looking to collaborate on Cusom Software Development - Robotic Process Automation projects in the future.
+- 💞️ I’m looking to collaborate on Custom Software Development - Robotic Process Automation projects in the future.
 - 📫 How to reach me ...
 
 <!---
